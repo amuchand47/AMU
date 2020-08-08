@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "156705023445",
+    "firebase_url": "https://amubooks-a852c.firebaseio.com",
+    "project_id": "amubooks-a852c",
+    "storage_bucket": "amubooks-a852c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156705023445:android:94a414da06bdfcd17d895c",
+        "android_client_info": {
+          "package_name": "com.example.tutorfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156705023445-1h4l1v2g79jdhh9g25h7fgv1h0vd527v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe7APEalOgXhn5Hb2bVg0SrtaGbqzXPlQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156705023445-1h4l1v2g79jdhh9g25h7fgv1h0vd527v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
